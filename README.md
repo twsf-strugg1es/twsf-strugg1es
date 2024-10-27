@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twsf-strugg1es
+- 👋 Hi, I’m Towsif
 - 🌱 I’m currently learning AI and many more...
 
 <!---
