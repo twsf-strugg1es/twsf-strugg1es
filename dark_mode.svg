@@ -10,7 +10,7 @@
   <rect x="1" y="1" width="958" height="518" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <text x="42" y="52" class="heading">$ twsf-strugg1es@github --profile</text>
   <line x1="42" y1="72" x2="918" y2="72" stroke="#30363d"/>
-  <text x="42" y="105" class="label">Uptime:</text><text x="180" y="105" class="value">2 years, 3 months, 4 days</text>
+  <text x="42" y="105" class="label">Uptime:</text><text x="180" y="105" class="value">2 years, 3 months, 5 days</text>
   <text x="42" y="135" class="label">Location:</text><text x="180" y="135" class="value">Dhaka</text>
   <text x="42" y="165" class="label">Languages:</text><text x="180" y="165" class="value">Jupyter Notebook 45%, JavaScript 25%, Python 13%</text>
   <line x1="42" y1="193" x2="918" y2="193" stroke="#30363d"/>
